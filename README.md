@@ -32,6 +32,9 @@ If you want to add a new link, just create a pull request (or directly edit this
 
 - [deep-go](https://github.com/jsalvatier/deep-go) - move evaluation in go using seep Convolutional Neural Networks.
 - [BetaGo](https://github.com/maxpumperla/betago) - a tool for creating and training your own go bot.
+- [pachi](https://github.com/pasky/pachi) - pretty strong bot engine.
+- [RocAlphaGo](https://github.com/Rochester-NRT/RocAlphaGo) - attempt to reimplement Google AlphaGo.
+- [GoCNN](https://github.com/jmgilmer/GoCNN) - using CNN for Go board evaluation with TensorFlow.
 
 ## Other libraries
 
@@ -40,3 +43,5 @@ If you want to add a new link, just create a pull request (or directly edit this
 - [uberdownloader](https://github.com/thouis/uberdownloader) - python script for downloading games from OGS.
 - [ogs-notifier](https://github.com/prozz/ogs-notifier) - chrome plugin for easy notifications from OGS.
 - [clublisttool](https://github.com/slashme/clublisttool) - database of go clubs and some tools to edit, import and export club data.
+- [noGo](https://github.com/inclement/noGo) - cross-platform SGF editor written in Python.
+- [Gobandroid](https://github.com/ligi/gobandroid) - SGF viewer and editor for Android.
