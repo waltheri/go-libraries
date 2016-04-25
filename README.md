@@ -1,6 +1,6 @@
 # List of go libraries
 
-The idea of this repository is to collect cool libraries and tools for game of go, which could be used by developers. It is primarily intended for web developers, but all projects are welcome. There are only 2 rules: code of the project must be licensed as open source (so other people could use it) and it must be in some public web repository (if a library doesn't have GitHub, it isn't cool).
+The idea of this repository is to collect cool libraries, tools and applications for game of go, which could be used by developers. It is primarily intended for web developers, but all projects are welcome. There are only 2 rules: code of the project must be licensed as open source (so other people could use it) and it must be in some public web repository (if a library doesn't have GitHub, it isn't cool :wink:).
 
 If you want to add a new link, just create a pull request (or directly edit this file). Don't forget to write a small description, it should be about one line long, longer texts won't be accepted. If there is missing some category, you can add it as well.
 
