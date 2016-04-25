@@ -13,6 +13,7 @@ If you want to add a new link, just create a pull request (or directly edit this
 - [WGo.js Player](http://wgo.waltheri.net/player) - highly customizable SGF player, part of WGo.js library.
 - [Glift](http://www.gliftgo.com) - modern responsive SGF viewer with many features out of the box.
 - [jGoBoard](http://jgoboard.com) - javascript SGF player with a photo-realistic go board and stones.
+- [Sabaki](https://github.com/yishn/Sabaki) - modern javascript based SGF editor, which can run as desktop application.
 
 ### SGF utilities
 
@@ -27,6 +28,15 @@ If you want to add a new link, just create a pull request (or directly edit this
 
 - [KGS-Game-Archives](https://github.com/neagle/KGS-Game-Archives) - a jQuery plugin and PHP script to put links to your KGS games on a webpage.
 
+## Go bots & A.I.
+
+- [deep-go](https://github.com/jsalvatier/deep-go) - move evaluation in go using seep Convolutional Neural Networks.
+- [BetaGo](https://github.com/maxpumperla/betago) - a tool for creating and training your own go bot.
+
 ## Other libraries
 
 - [sgfparser](https://github.com/HermanHiddema/sgfparser) - SGF parser for Python.
+- [sgf-utils](https://github.com/traveller42/sgf-utils) - collection of utilities in various languages that use SGF files in some specific manner.
+- [uberdownloader](https://github.com/thouis/uberdownloader) - python script for downloading games from OGS.
+- [ogs-notifier](https://github.com/prozz/ogs-notifier) - chrome plugin for easy notifications from OGS.
+- [clublisttool](https://github.com/slashme/clublisttool) - database of go clubs and some tools to edit, import and export club data.
