@@ -52,3 +52,4 @@ If you want to add a new link, just create a pull request (or directly edit this
 - [noGo](https://github.com/inclement/noGo) - cross-platform SGF editor written in Python.
 - [Gobandroid](https://github.com/ligi/gobandroid) - SGF viewer and editor for Android.
 - [tenuki.js](https://github.com/aprescott/tenuki.js) - javascript implementation of go board and game rules.
+- [gobl](https://github.com/burz/gobl) - C++ Base library for ML with sgf parsing/writing, feature generation, and game iteration.
