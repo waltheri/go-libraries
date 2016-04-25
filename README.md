@@ -14,11 +14,16 @@ If you want to add a new link, just create a pull request (or directly edit this
 - [Glift](http://www.gliftgo.com) - modern responsive SGF viewer with many features out of the box.
 - [jGoBoard](http://jgoboard.com) - javascript SGF player with a photo-realistic go board and stones.
 - [Sabaki](https://github.com/yishn/Sabaki) - modern javascript based SGF editor, which can run as desktop application.
+- [qgo](https://github.com/pzorin/qgo) - Go Client based on Qt 5
+- [besogo](https://github.com/yewang/besogo) - javascript SGF editor/viewer
 
 ### SGF utilities
 
 - [smartgame](https://github.com/neagle/smartgame) - parses SGF file into JSON.
 - [smartgamer](https://github.com/neagle/smartgamer) - navigates and manipulates JSON kifu representation from smartgame.
+- [sgfparser](https://github.com/HermanHiddema/sgfparser) - SGF parser for Python.
+- [sgf-utils](https://github.com/traveller42/sgf-utils) - collection of utilities in various languages that use SGF files in some specific manner.
+- [sgfgrove](https://github.com/anazawa/sgfgrove) - type-aware SGF parser/composer intended for the browser
 
 ### Web apps
 
@@ -32,16 +37,12 @@ If you want to add a new link, just create a pull request (or directly edit this
 
 - [deep-go](https://github.com/jsalvatier/deep-go) - move evaluation in go using seep Convolutional Neural Networks.
 - [BetaGo](https://github.com/maxpumperla/betago) - a tool for creating and training your own go bot.
-- [pachi](https://github.com/pasky/pachi) - pretty strong bot engine.
-- [RocAlphaGo](https://github.com/Rochester-NRT/RocAlphaGo) - attempt to reimplement Google AlphaGo.
-- [GoCNN](https://github.com/jmgilmer/GoCNN) - using CNN for Go board evaluation with TensorFlow.
+- [pachi](https://github.com/pasky/pachi) - modular framework for go AI, and a reasonably strong engine built with this framework
+- [michi](https://github.com/pasky/michi) - minimalistic MCTS engine
 
 ## Other libraries
 
-- [sgfparser](https://github.com/HermanHiddema/sgfparser) - SGF parser for Python.
-- [sgf-utils](https://github.com/traveller42/sgf-utils) - collection of utilities in various languages that use SGF files in some specific manner.
+- [tenuki.js](https://github.com/aprescott/tenuki.js) - javascript implementation of go board and game rules
 - [uberdownloader](https://github.com/thouis/uberdownloader) - python script for downloading games from OGS.
 - [ogs-notifier](https://github.com/prozz/ogs-notifier) - chrome plugin for easy notifications from OGS.
 - [clublisttool](https://github.com/slashme/clublisttool) - database of go clubs and some tools to edit, import and export club data.
-- [noGo](https://github.com/inclement/noGo) - cross-platform SGF editor written in Python.
-- [Gobandroid](https://github.com/ligi/gobandroid) - SGF viewer and editor for Android.
