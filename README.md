@@ -13,3 +13,20 @@ If you want to add a new link, just create a pull request (or directly edit this
 - [WGo.js Player](http://wgo.waltheri.net/player) - highly customizable SGF player, part of WGo.js library.
 - [Glift](http://www.gliftgo.com) - modern responsive SGF viewer with many features out of the box.
 - [jGoBoard](http://jgoboard.com) - javascript SGF player with a photo-realistic go board and stones.
+
+### SGF utilities
+
+- [smartgame](https://github.com/neagle/smartgame) - parses SGF file into JSON.
+- [smartgamer](https://github.com/neagle/smartgamer) - navigates and manipulates JSON kifu representation from smartgame.
+
+### Web apps
+
+- [GoKibitz](http://gokibitz.com/) - move-by-move conversations about go games.
+
+### Other
+
+- [KGS-Game-Archives](https://github.com/neagle/KGS-Game-Archives) - a jQuery plugin and PHP script to put links to your KGS games on a webpage.
+
+## Other libraries
+
+- [sgfparser](https://github.com/HermanHiddema/sgfparser) - SGF parser for Python.
