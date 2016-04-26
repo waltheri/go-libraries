@@ -8,7 +8,6 @@ If you want to add a new link, just create a pull request (or directly edit this
 
 ### SGF viewers and editors
 
-- [EidoGo](https://github.com/jkk/eidogo) - one of the first JavaScript SGF viewer, which runs even in old browsers.
 - [Web Go/Baduk Board](https://github.com/IlyaKirillov/GoProject) - HTML5 based SGF viewer and editor, which support rarer file formats like ngf and gib.
 - [WGo.js Player](http://wgo.waltheri.net/player) - highly customizable SGF player, part of WGo.js library.
 - [Glift](http://www.gliftgo.com) - modern responsive SGF viewer with many features out of the box.
@@ -16,6 +15,7 @@ If you want to add a new link, just create a pull request (or directly edit this
 - [Sabaki](https://github.com/yishn/Sabaki) - modern javascript based SGF editor, which can run as desktop application.
 - [qgo](https://github.com/pzorin/qgo) - Go Client based on Qt 5.
 - [besogo](https://github.com/yewang/besogo) - javascript SGF editor/viewer.
+- [EidoGo](https://github.com/jkk/eidogo) :skull: - one of the first JavaScript SGF viewer, which runs even in old browsers.
 
 ### SGF utilities
 
@@ -54,3 +54,7 @@ If you want to add a new link, just create a pull request (or directly edit this
 - [tenuki.js](https://github.com/aprescott/tenuki.js) - javascript implementation of go board and game rules.
 - [GoSharp](https://github.com/paviad/GoSharp) C# class library for loading, storing and manipulating SGF files.
 - [gobl](https://github.com/burz/gobl) - C++ Base library for ML with sgf parsing/writing, feature generation, and game iteration.
+
+---
+
+*Libraries marked with :skull: are deprecated for some reason.*
