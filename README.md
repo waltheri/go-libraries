@@ -52,3 +52,4 @@ If you want to add a new link, just create a pull request (or directly edit this
 - [noGo](https://github.com/inclement/noGo) - cross-platform SGF editor written in Python.
 - [Gobandroid](https://github.com/ligi/gobandroid) - SGF viewer and editor for Android.
 - [tenuki.js](https://github.com/aprescott/tenuki.js) - javascript implementation of go board and game rules.
+- [GoSharp](https://github.com/paviad/GoSharp) C# class library for loading, storing and manipulating SGF files.
