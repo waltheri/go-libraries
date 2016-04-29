@@ -45,7 +45,7 @@ If you want to add a new link, just create a pull request (or directly edit this
 - [RocAlphaGo](https://github.com/Rochester-NRT/RocAlphaGo) - attempt to reimplement Google AlphaGo.
 - [GoCNN](https://github.com/jmgilmer/GoCNN) - using CNN for Go board evaluation with TensorFlow.
 - [gomill](https://pypi.python.org/pypi/gomill) - python tools for developing go-playing programs.
-- 
+
 ## Other libraries
 
 - [uberdownloader](https://github.com/thouis/uberdownloader) - python script for downloading games from OGS.
@@ -57,6 +57,7 @@ If you want to add a new link, just create a pull request (or directly edit this
 - [GoSharp](https://github.com/paviad/GoSharp) C# class library for loading, storing and manipulating SGF files.
 - [gobl](https://github.com/burz/gobl) - C++ Base library for ML with sgf parsing/writing, feature generation, and game iteration.
 - [igo](https://www.ctan.org/tex-archive/fonts/igo) - archaic TEX package for printing go diagrams and other stuff.
+
 ---
 
 *Libraries marked with :skull: are deprecated for some reason.*
