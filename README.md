@@ -35,6 +35,7 @@ If you want to add a new link, just create a pull request (or directly edit this
 ### Other
 
 - [KGS-Game-Archives](https://github.com/neagle/KGS-Game-Archives) - a jQuery plugin and PHP script to put links to your KGS games on a webpage.
+- [go-assets](https://github.com/atarnowsky/go-assets) - pretty cool graphics related to go (wood, stones).
 
 ## Go bots & A.I.
 
