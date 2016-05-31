@@ -14,7 +14,7 @@ If you want to add a new link, just create a pull request (or directly edit this
 - [jGoBoard](http://jgoboard.com) - javascript SGF player with a photo-realistic go board and stones.
 - [Sabaki](https://github.com/yishn/Sabaki) - modern javascript based SGF editor, which can run as desktop application.
 - [qgo](https://github.com/pzorin/qgo) - Go Client based on Qt 5.
-- [besogo](https://github.com/yewang/besogo) - javascript SGF editor/viewer.
+- [BesoGo](http://yewang.github.io/besogo/) - embeddable javascript SGF editor and viewer.
 - [EidoGo](https://github.com/jkk/eidogo) :skull: - one of the first JavaScript SGF viewer, which runs even in old browsers.
 - [ngGo](https://github.com/adambuczynski/ngGo) - Angular.JS library for reading, parsing, displaying, editing and replaying go game records.
 - [go-react-redux-elm](https://github.com/ajhyndman/go-react-redux-elm) – Go Board with Vanilla React, React + Redux & Elm
