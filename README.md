@@ -34,6 +34,7 @@ If you want to add a new link, just create a pull request (or directly edit this
 - [Improve at go](https://github.com/MatMoore/go-improve) - web app for reviewing Go games.
 - [congo](https://github.com/justecorruptio/congo) - a go server for massive multiplayer consultation go ([website](http://con-go.net/)).
 - [weiqi.gs](https://weiqi.gs) - open-source game server for the game of Go.
+- [KGS Leben](https://github.com/stephenmartindale/kgs-leben) - JavaScript based client for the KGS Go Server.
 
 ### Other
 
