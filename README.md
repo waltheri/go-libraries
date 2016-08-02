@@ -35,6 +35,7 @@ If you want to add a new link, just create a pull request (or directly edit this
 - [congo](https://github.com/justecorruptio/congo) - a go server for massive multiplayer consultation go ([website](http://con-go.net/)).
 - [weiqi.gs](https://weiqi.gs) - open-source game server for the game of Go.
 - [KGS Leben](https://github.com/stephenmartindale/kgs-leben) - JavaScript based client for the KGS Go Server.
+- [Ghost-Go](http://www.ghost-go.com/) - website for studying of tsumego with well written modern [code](https://github.com/happybai/ghost-go).
 
 ### Other
 
