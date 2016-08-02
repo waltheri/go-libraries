@@ -36,6 +36,7 @@ If you want to add a new link, just create a pull request (or directly edit this
 - [weiqi.gs](https://weiqi.gs) - open-source game server for the game of Go.
 - [KGS Leben](https://github.com/stephenmartindale/kgs-leben) - JavaScript based client for the KGS Go Server.
 - [Ghost-Go](http://www.ghost-go.com/) - website for studying of tsumego with well written modern [code](https://github.com/happybai/ghost-go).
+- [GoUniverse](https://github.com/IlyaKirillov/GoUniverse) - another web-based client for the KGS Go Server.
 
 ### Other
 
