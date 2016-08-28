@@ -45,7 +45,7 @@ If you want to add a new link, just create a pull request (or directly edit this
 
 ## Go bots & A.I.
 
-- [deep-go](https://github.com/jsalvatier/deep-go) - move evaluation in go using seep Convolutional Neural Networks.
+- [deep-go](https://github.com/jsalvatier/deep-go) - move evaluation in go using deep Convolutional Neural Networks.
 - [BetaGo](https://github.com/maxpumperla/betago) - a tool for creating and training your own go bot.
 - [pachi](https://github.com/pasky/pachi) - pretty strong bot engine.
 - [michi](https://github.com/pasky/michi) - minimalistic MCTS engine.
@@ -54,6 +54,7 @@ If you want to add a new link, just create a pull request (or directly edit this
 - [gomill](https://pypi.python.org/pypi/gomill) - python tools for developing go-playing programs.
 - [GoFamiliar](https://github.com/salvor7/Gofamiliar) - python hydra game app (in development) 
 - [darkforestGo](https://github.com/facebookresearch/darkforestGo) - go game engine powered by Deep Learning developed by Facebook.
+- [matilda](https://github.com/gonmf/matilda) - MCTS engine, similar to MoGo, Pachi
 
 ## Other libraries
 
