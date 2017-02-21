@@ -18,6 +18,7 @@ If you want to add a new link, just create a pull request (or directly edit this
 - [EidoGo](https://github.com/jkk/eidogo) :skull: - one of the first JavaScript SGF viewer, which runs even in old browsers.
 - [ngGo](https://github.com/adambuczynski/ngGo) - Angular.JS library for reading, parsing, displaying, editing and replaying go game records.
 - [go-react-redux-elm](https://github.com/ajhyndman/go-react-redux-elm) – Go Board with Vanilla React, React + Redux & Elm
+- [Goban](https://github.com/Boris-Em/Goban) - Go board with SGF support for iOS written in Swift.
 
 ### SGF utilities
 
