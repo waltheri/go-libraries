@@ -25,6 +25,7 @@ If you want to add a new link, just create a pull request (or directly edit this
 - [smartgame](https://github.com/neagle/smartgame) - parses SGF file into JSON.
 - [smartgamer](https://github.com/neagle/smartgamer) - navigates and manipulates JSON kifu representation from smartgame.
 - [sgfparser](https://github.com/HermanHiddema/sgfparser) - SGF parser for Python.
+- [sgfmill](https://mjw.woodcraft.me.uk/sgfmill/) - Python library for reading, manipulating, and writing SGF files.
 - [SGFParser](https://github.com/Trevoke/SGFParser) - SGF parser for Ruby.
 - [sgf-utils](https://github.com/traveller42/sgf-utils) - collection of utilities in various languages that use SGF files in some specific manner.
 - [sgfgrove](https://github.com/anazawa/sgfgrove) - type-aware SGF parser/composer intended for the browser
