@@ -64,7 +64,7 @@ If you want to add a new link, just create a pull request (or directly edit this
 - [clublisttool](https://github.com/slashme/clublisttool) - database of go clubs and some tools to edit, import and export club data.
 - [noGo](https://github.com/inclement/noGo) - cross-platform SGF editor written in Python.
 - [Gobandroid](https://github.com/ligi/gobandroid) - SGF viewer and editor for Android.
-- [tenuki.js](https://github.com/aprescott/tenuki.js) - javascript implementation of go board and game rules.
+- [Tenuki](https://github.com/aprescott/tenuki) - javascript implementation of go board and game rules.
 - [GoSharp](https://github.com/paviad/GoSharp) C# class library for loading, storing and manipulating SGF files.
 - [gobl](https://github.com/burz/gobl) - C++ Base library for ML with sgf parsing/writing, feature generation, and game iteration.
 - [igo](https://www.ctan.org/tex-archive/fonts/igo) - archaic TEX package for printing go diagrams and other stuff.
