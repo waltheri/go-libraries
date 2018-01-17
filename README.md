@@ -19,6 +19,8 @@ If you want to add a new link, just create a pull request (or directly edit this
 - [ngGo](https://github.com/adambuczynski/ngGo) - Angular.JS library for reading, parsing, displaying, editing and replaying go game records.
 - [go-react-redux-elm](https://github.com/ajhyndman/go-react-redux-elm) – Go Board with Vanilla React, React + Redux & Elm
 - [Goban](https://github.com/Boris-Em/Goban) - Go board with SGF support for iOS written in Swift.
+- [GoVariantsTranformer](https://github.com/goplayerjuggler/goVariants/tree/master/transformer) - Node/ES6 viewer/editor for [Toroidal Go](https://senseis.xmp.net/?ToroidalGo) (SGF transformations hooked up to [Web Go/Baduk Board](https://github.com/IlyaKirillov/GoProject)).
+
 
 ### SGF utilities
 
@@ -68,6 +70,7 @@ If you want to add a new link, just create a pull request (or directly edit this
 - [GoSharp](https://github.com/paviad/GoSharp) C# class library for loading, storing and manipulating SGF files.
 - [gobl](https://github.com/burz/gobl) - C++ Base library for ML with sgf parsing/writing, feature generation, and game iteration.
 - [igo](https://www.ctan.org/tex-archive/fonts/igo) - archaic TEX package for printing go diagrams and other stuff.
+- [GoVariantsEngine](https://github.com/goplayerjuggler/goVariants/tree/master/engine) - node/ES6; implementation of go rules (liberty counting & removing stones), for standard Go and [Toroidal Go](https://senseis.xmp.net/?ToroidalGo). 
 
 ---
 
