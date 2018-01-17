@@ -70,6 +70,7 @@ If you want to add a new link, just create a pull request (or directly edit this
 - [GoSharp](https://github.com/paviad/GoSharp) C# class library for loading, storing and manipulating SGF files.
 - [gobl](https://github.com/burz/gobl) - C++ Base library for ML with sgf parsing/writing, feature generation, and game iteration.
 - [igo](https://www.ctan.org/tex-archive/fonts/igo) - archaic TEX package for printing go diagrams and other stuff.
+- [GoVariantsEngine](https://github.com/goplayerjuggler/goVariants/tree/master/engine) - node/ES6; implementation of go rules (liberty counting & removing stones), for standard Go and [Toroidal Go](https://senseis.xmp.net/?ToroidalGo). 
 
 ---
 
