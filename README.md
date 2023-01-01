@@ -42,10 +42,12 @@ If you want to add a new link, just create a pull request (or directly edit this
 - [Ghost-Go](http://www.ghost-go.com/) - website for studying of tsumego with well written modern [code](https://github.com/happybai/ghost-go).
 - [GoUniverse](https://github.com/IlyaKirillov/GoUniverse) - another web-based client for the KGS Go Server.
 
+
 ### Other
 
 - [KGS-Game-Archives](https://github.com/neagle/KGS-Game-Archives) - a jQuery plugin and PHP script to put links to your KGS games on a webpage.
 - [go-assets](https://github.com/atarnowsky/go-assets) - pretty cool graphics related to go (wood, stones).
+
 
 ## Go bots & A.I.
 
@@ -60,6 +62,12 @@ If you want to add a new link, just create a pull request (or directly edit this
 - [darkforestGo](https://github.com/facebookresearch/darkforestGo) - go game engine powered by Deep Learning developed by Facebook.
 - [matilda](https://github.com/gonmf/matilda) - MCTS engine, similar to MoGo, Pachi
 
+## Terminal apps
+
+- [dango](https://github.com/gsobell/dango) - dango is a terminal based Go board written in python dango
+- [baduk-fortune](https://github.com/gsobell/baduk-fortune) - A collection of baduk fortunes for the terminal
+- [termsuji](https://github.com/lvank/termsuji) - a limited application interacting with online-go.com to play Go in the terminal. 
+
 ## Other libraries
 
 - [uberdownloader](https://github.com/thouis/uberdownloader) - python script for downloading games from OGS.
@@ -71,6 +79,11 @@ If you want to add a new link, just create a pull request (or directly edit this
 - [GoSharp](https://github.com/paviad/GoSharp) C# class library for loading, storing and manipulating SGF files.
 - [gobl](https://github.com/burz/gobl) - C++ Base library for ML with sgf parsing/writing, feature generation, and game iteration.
 - [igo](https://www.ctan.org/tex-archive/fonts/igo) - archaic TEX package for printing go diagrams and other stuff.
+- [baduk](https://github.com/macfergus/baduk) - Fast baduk / go / weiqi game logic in C++ with Python wrapper
+- [sente](https://github.com/atw1020/sente) - Sente is an open source python library for the game of Go 
+- [gomill](https://github.com/mattheww/gomill) - Python tools for the game of Go (GTP and SGF)
+- [sgfmill](https://github.com/mattheww/sgfmill) - Python library for Smart Game Format (SGF) files
+- [imago](https://github.com/tomasmcz/imago) - Optical position recognition for the game of Go 
 - [GoVariantsEngine](https://github.com/goplayerjuggler/goVariants/tree/master/engine) - node/ES6; implementation of go rules (liberty counting & removing stones), for standard Go and [Toroidal Go](https://senseis.xmp.net/?ToroidalGo). 
 
 ---
