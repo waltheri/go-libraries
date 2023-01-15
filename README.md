@@ -31,6 +31,7 @@ If you want to add a new link, just create a pull request (or directly edit this
 - [SGFParser](https://github.com/Trevoke/SGFParser) - SGF parser for Ruby.
 - [sgf-utils](https://github.com/traveller42/sgf-utils) - collection of utilities in various languages that use SGF files in some specific manner.
 - [sgfgrove](https://github.com/anazawa/sgfgrove) - type-aware SGF parser/composer intended for the browser
+- [go_sgf_to_igo_latex](https://github.com/PhilippeCarphin/go_sgf_to_igo_latex) - tool for translation from an SGF file to LaTeX using [igo](https://www.ctan.org/pkg/igo) package
 
 ### Web apps
 
@@ -81,7 +82,6 @@ If you want to add a new link, just create a pull request (or directly edit this
 - [igo](https://www.ctan.org/tex-archive/fonts/igo) - archaic TEX package for printing go diagrams and other stuff.
 - [baduk](https://github.com/macfergus/baduk) - Fast baduk / go / weiqi game logic in C++ with Python wrapper
 - [sente](https://github.com/atw1020/sente) - Sente is an open source python library for the game of Go 
-- [gomill](https://github.com/mattheww/gomill) - Python tools for the game of Go (GTP and SGF)
 - [sgfmill](https://github.com/mattheww/sgfmill) - Python library for Smart Game Format (SGF) files
 - [imago](https://github.com/tomasmcz/imago) - Optical position recognition for the game of Go 
 - [GoVariantsEngine](https://github.com/goplayerjuggler/goVariants/tree/master/engine) - node/ES6; implementation of go rules (liberty counting & removing stones), for standard Go and [Toroidal Go](https://senseis.xmp.net/?ToroidalGo). 
